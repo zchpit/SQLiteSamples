@@ -1,0 +1,2 @@
+C:\Users\abc\Downloads\GettingStartedWithSQLitePart1\SQLiteSamples\SQLiteSamples\bin\Debug\SQLiteSamples.exe.config
+C:\src\SQLiteSamples\SQLiteSamples\bin\Debug\SQLiteSamples.exe.config
